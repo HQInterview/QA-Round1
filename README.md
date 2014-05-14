@@ -63,11 +63,10 @@ POST api.hotelquickly.com/api/2.2/user
 
 ### Guidelines
 
-* What would you test?
-* How would you test it?
-* Which tools would you use? Create an example
-* Do not spend more than 1.5-2 hours on this task
+* What would you test in the app?
+* How would you test it? Which tools would you use? Create a detailed example
+* How would you test the API?
 * How would you test the connection to APIs? How to make sure a release in Backend doesn't break the app?
+* Do not spend more than 1.5-2 hours on this task
 * Create a file named TestingMobileApps.md and use Markdown to format it
 * Commit the file and send a pull request when you are done (with both tasks)
-
