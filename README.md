@@ -46,13 +46,13 @@ Please download HotelQuickly app:
 * iOS: [www.hotelquickly.com/app/ios](http://www.hotelquickly.com/app/ios)
 * Android: [www.hotelquickly.com/app/android](http://www.hotelquickly.com/app/android)
 
-and based on what do you see, prepare test scenarios for the app. Try to answer the following questions:
+and based on what do you see, prepare test scenarios for the app. Note that we're releasing a new build every 2-4 weeks and need to make sure everything is working well.
 
-## Guidelines
+### Guidelines
 
 * What would you test?
 * How would you test it?
 * Which tools would you use? Create an example
 * Do not spend more than 1.5-2 hours on this task
-
+* How would you test the connection to APIs? How to make sure a release in Backend doesn't break the app?
 
