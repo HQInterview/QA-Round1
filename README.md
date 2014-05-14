@@ -47,7 +47,19 @@ Please download HotelQuickly app:
 * iOS: [www.hotelquickly.com/app/ios](http://www.hotelquickly.com/app/ios)
 * Android: [www.hotelquickly.com/app/android](http://www.hotelquickly.com/app/android)
 
-and based on what do you see, prepare test scenarios for the app. Note that we're releasing a new build every 2-4 weeks and need to make sure everything is working well.
+and based on what do you see, prepare 10 test scenarios for the app. Note that we're releasing a new build every 2-4 weeks and need to make sure everything is working well.
+
+Here's an API that we're using in the application to register a user:
+
+```
+POST api.hotelquickly.com/api/2.2/user
+* device_code
+* email
+* full_name
+* password
+* secret_key
+* hmac
+```
 
 ### Guidelines
 
