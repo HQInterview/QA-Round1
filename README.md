@@ -38,6 +38,7 @@ Considering the services we are using, suppose we don't have any QA at the momen
 * What input would you need from other people in the company?
 * Create a file named ```StartingQaAtHotelQuickly.md``` and use Markdown to format it
 * Do not spend more than 2-3 hours on this task
+* Commit the file and send a pull request when you are done (with both tasks)
 
 ## Question 2
 
@@ -55,4 +56,6 @@ and based on what do you see, prepare test scenarios for the app. Note that we'r
 * Which tools would you use? Create an example
 * Do not spend more than 1.5-2 hours on this task
 * How would you test the connection to APIs? How to make sure a release in Backend doesn't break the app?
+* Create a file named TestingMobileApps.md and use Markdown to format it
+* Commit the file and send a pull request when you are done (with both tasks)
 
